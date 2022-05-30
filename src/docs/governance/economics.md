@@ -3,67 +3,54 @@ title: OP Economics
 lang: en-US
 ---
 
-::: tip Reminder: OP Airdrop #1 is not yet available to claim.
-*The official airdrop date will be announced on Twitter by [@optimismPBC](https://twitter.com/optimismPBC).*
-*Airdrop #1 will not require payment.*
-*Anyone offering to sell you OP before the official announcement is a scam.*
-*Stay safe!*
-:::
+# اقتصاد OP
 
-The Optimism Collective is based on the idea that healthy public goods create a thriving and valuable ecosystem. 
-The economics of this ecosystem are designed to generate value for three constituencies:
+::: نکته یادآوری: OP Airdrop شماره 1 هنوز برای ادعا در دسترس نیست. تاریخ رسمی ایردراپ توسط @optimismPBC در توییتر اعلام خواهد شد. Airdrop شماره 1 نیازی به پرداخت ندارد. هر کسی که پیشنهاد فروش OP را قبل از اعلام رسمی به شما بدهد کلاهبرداری است. ایمن بمان! :::
 
-- Value accrues to **tokenholders** through the productive re-deployment of sequencer revenue. 
-  Sequencer revenue is primarily directed to fund public goods, which creates ecosystem value and drives demand for blockspace.
-- Value accrues to **contributors and builders** directly from retroactive public goods funding and the markets it enables.
-  Builders also benefit symbiotically: it’s better to build in an ecosystem with well-funded tools, education, apps, and infrastructure.
-- Value accrues to **users and community members** from ongoing airdrops of OP, from project incentives made possible by OP ecosystem funding, and from the benefit public goods provide.
+مجموعه خوش بینی بر این ایده استوار است که کالاهای عمومی سالم یک اکوسیستم پر رونق و ارزشمند ایجاد می کنند. اقتصاد این اکوسیستم برای ایجاد ارزش برای سه حوزه طراحی شده است:
 
-Together, it looks like this:
+ارزش از طریق استقرار مجدد سودمند درآمد ترتیب‌دهنده به دارندگان توکن تعلق می‌گیرد. درآمد ترتیب‌دهنده عمدتاً برای تأمین مالی کالاهای عمومی است که ارزش اکوسیستم ایجاد می‌کند و تقاضا برای فضای بلوک را افزایش می‌دهد.
 
-![](../../assets/docs/governance/economics/virt_cycle.png)
+ارزش مستقیماً از بودجه عطف به ماسبق کالاهای عمومی و بازارهایی که آن را قادر می سازد به مشارکت کنندگان و سازندگان تعلق می گیرد. سازندگان نیز به صورت همزیستی سود می‌برند: بهتر است در یک اکوسیستم با ابزارها، آموزش، برنامه‌ها و زیرساخت‌های دارای بودجه خوب بسازید.
 
-Let’s break it down ⤵️
+ارزشی برای کاربران و اعضای جامعه از پخش مداوم OP، مشوق های پروژه که توسط بودجه اکوسیستم OP ممکن شده است، و از مزایایی که کالاهای عمومی ارائه می کنند، به دست می آید.
 
-## Demand for OP blockspace generates revenue
+با هم، به نظر می رسد این است:
 
-Funding for the OP economy comes from ownership of the Optimism network and the value of its blockspace. 
-Today, funding comes directly from the centralized sequencer, accruing to the Optimism Foundation for redistribution. 
-In the future, funding can accrue directly to the protocol by selling the right to participate in Optimism’s decentralized sequencing network.
+![](../../assets/docs/governance/economics/virt\_cycle.png)
 
-Simply put: the right to blockspace is the sustainable source of revenue that drives OP’s economic model and grows with the network itself.
+بیایید آن را تجزیه کنیم ⤵️
 
-## Revenue is distributed to public goods
+### تقاضا برای فضای بلوک OP درآمد ایجاد می کند
 
-Communities benefit from all sorts of public goods, from education to city infrastructure to open source software. 
-But many markets fail to provide adequate funding and support for those public goods. 
-It’s here that Optimism takes a step forward, by building a sustainable funding source into the mechanisms of the network itself.
+بودجه برای اقتصاد OP از مالکیت شبکه Optimism و ارزش فضای بلاک آن حاصل می شود. امروزه، بودجه مستقیماً از ترتیب‌دهنده متمرکز تأمین می‌شود و برای توزیع مجدد به بنیاد خوش‌بینی تعلق می‌گیرد. در آینده، بودجه می‌تواند مستقیماً با فروش حق مشارکت در شبکه توالی غیرمتمرکز Optimism به پروتکل تعلق گیرد.
 
-Direct or auctioned sequencer revenue is distributed back to the ecosystem primarily through Retroactive Public Goods Funding ([RetroPGF](https://medium.com/ethereum-optimism/retroactive-public-goods-funding-33c9b7d00f0c)).
-This creates strong incentives for individuals to build for the public good of the Optimism Collective.
+به زبان ساده: حق بلاک‌فضا منبع درآمد پایداری است که مدل اقتصادی OP را هدایت می‌کند و با خود شبکه رشد می‌کند.
 
-To start, the Citizens’ House will vote quarterly on distributions of funds to individuals, teams, projects, or communities that have provided subjective value over a specified time period. 
-This directly rewards community members for the positive impact of their work.
+### درآمد به کالاهای عمومی تقسیم می شود
 
-RetroPGF also provides possible exit liquidity for public goods projects, which opens up a market for early investment in those projects. 
-This means builders can:
+جوامع از انواع کالاهای عمومی، از آموزش گرفته تا زیرساخت های شهری و نرم افزار منبع باز بهره می برند. اما بسیاری از بازارها از تامین بودجه و حمایت کافی برای آن کالاهای عمومی شکست می خورند. اینجاست که Optimism با ایجاد یک منبع تامین مالی پایدار در مکانیسم های خود شبکه یک گام به جلو برمی دارد.
 
-- Be compensated for their positive contributions without generating direct revenue.
-- Raise capital to bootstrap based on the early potential and promise of their project.
+درآمد توالی‌ساز مستقیم یا حراج شده عمدتاً از طریق تأمین مالی کالاهای عمومی ماسبق (RetroPGF) به اکوسیستم توزیع می‌شود. این انگیزه‌های قوی برای افراد ایجاد می‌کند تا به نفع عمومی مجموعه خوش‌بینی بسازند.
 
-In the long-term, we expect this mechanism to drive a wide range of pro-social downstream effects, which the Collective can capture and expand upon through frequent experimentation and iteration.
+برای شروع، خانه شهروندان هر سه ماه یک بار در مورد توزیع وجوه به افراد، تیم‌ها، پروژه‌ها یا جوامعی که ارزش ذهنی در یک دوره زمانی مشخص ارائه کرده‌اند، رأی می‌دهد. این به طور مستقیم به اعضای جامعه برای تأثیر مثبت کارشان پاداش می دهد.
 
-## Value from public goods drives demand for blockspace
+*
 
-Funding public goods drives growth — and therefore network revenues — from the ground up. 
-In our [first round](https://vitalik.ca/general/2021/11/16/retro1.html) of RetroPGF, Optimism funded a set of hugely valuable developer tools and core infrastructure. 
-The aggregate effect is an ecosystem that is easier to build on, learn about, and connect to, in turn driving application usage and generating more demand for blockspace.
+RetroPGF همچنین نقدینگی خروجی احتمالی را برای پروژه های کالاهای عمومی فراهم می کند که بازاری را برای سرمایه گذاری اولیه در آن پروژه ها باز می کند. این بدان معنی است که سازندگان می توانند:
 
-But what value do these public goods provide, and for whom is it valuable? 
-This is a rich design space. 
-Optimism’s governance is designed to create conditions for experimentation around this questions. 
-We draw heavily on the work of Ostrom, Vitalik, and others to make sure funding for public goods is maximally efficient, effective, and safe. 
+برای کمک های مثبت آنها بدون ایجاد درآمد مستقیم جبران شود.
 
-To start, we both share and divide governance through a two-house system, where network parameters for the amount of funding are controlled by both houses, but the governance of RetroPGF allocation is determined by a set of Citizens with local knowledge and skin in the game.
+بر اساس پتانسیل اولیه و وعده پروژه خود، سرمایه را برای بوت استرپ افزایش دهید.
 
-Thoughtful allocation of public goods funding will create longterm value for builders, users, tokenholders, citizens and the entire Optimism Collective.
+در بلندمدت، ما انتظار داریم که این مکانیسم طیف گسترده‌ای از اثرات پایین‌دستی طرفدار اجتماعی را ایجاد کند، که مجموعه می‌تواند از طریق آزمایش‌ها و تکرار مکرر آن‌ها را بگیرد و گسترش دهد.
+
+### ارزش کالاهای عمومی باعث افزایش تقاضا برای فضای بلوک می شود
+
+تامین مالی کالاهای عمومی باعث رشد - و در نتیجه درآمدهای شبکه - از پایه می شود. در اولین دور ما از RetroPGF، Optimism مجموعه‌ای از ابزارهای بسیار ارزشمند توسعه‌دهنده و زیرساخت‌های اصلی را تامین مالی کرد. اثر انبوه اکوسیستمی است که ساختن، یادگیری و اتصال به آن آسان‌تر است، در نتیجه باعث افزایش استفاده از برنامه‌ها و ایجاد تقاضای بیشتر برای فضای بلاک می‌شود.
+
+اما این کالاهای عمومی چه ارزشی دارد و برای چه کسانی ارزشمند است؟ این یک فضای طراحی غنی است. حکمرانی خوش بینی برای ایجاد شرایطی برای آزمایش پیرامون این سؤال طراحی شده است. ما به شدت از کار Ostrom، Vitalik و دیگران استفاده می کنیم تا مطمئن شویم که بودجه برای کالاهای عمومی حداکثر کارآمد، موثر و ایمن است.
+
+برای شروع، ما هر دو حکومت را از طریق یک سیستم دو خانه ای به اشتراک می گذاریم و تقسیم می کنیم، که در آن پارامترهای شبکه برای میزان بودجه توسط هر دو خانه کنترل می شود، اما حاکمیت تخصیص RetroPGF توسط مجموعه ای از شهروندان با دانش محلی و پوست تعیین می شود. بازی
+
+تخصیص متفکرانه بودجه کالاهای عمومی باعث ایجاد ارزش بلندمدت برای سازندگان، کاربران، دارندگان نشانه، شهروندان و کل مجموعه خوش‌بینی می‌شود.
