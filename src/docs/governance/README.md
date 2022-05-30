@@ -3,88 +3,72 @@ title: Governance Overview
 lang: en-US
 ---
 
-::: tip Reminder: OP Airdrop #1 is not yet available to claim.
-*The official airdrop date will be announced on Twitter by [@optimismPBC](https://twitter.com/optimismPBC).*
-*Airdrop #1 will not require payment.*
-*Anyone offering to sell you OP before the official announcement is a scam.*
-*Stay safe!*
-:::
+# بررسی اجمالی حاکمیت
 
-The Optimism Collective is a large-scale experiment in decentralized governance. 
-Our [Vision](https://optimism.io/vision) is to sustainably fund public goods that improve upon the well-being of the Collective and beyond.
+::: نکته یادآوری: OP Airdrop شماره 1 هنوز برای ادعا در دسترس نیست. تاریخ رسمی ایردراپ توسط                                  @optimismPBC در توییتر اعلام خواهد شد. Airdrop شماره 1 نیازی به پرداخت ندارد. هر کسی که پیشنهاد فروش                OP را قبل از اعلام رسمی به شما بدهد کلاهبرداری است. ایمن بمان! :::                                                                             &#x20;
 
-The form and function of this governance is intentionally open-ended, and will evolve with community participation, growth, and learning. 
+مجموعه اپتیمیزم آزمایشی در مقیاس بزرگ در حکومتداری غیرمتمرکز است. چشم انداز ما تامین مالی پایدار کالاهای   عمومی است که باعث بهبود رفاه مجموعه و فراتر از آن می شود.                                                                                   &#x20;
 
-Certain governance rights are granted via OP, an ERC20 token. 
-The Optimism Foundation will work alongside the Collective to shape how the rules of governance evolve over time.
+شکل و عملکرد این حکومت عمداً بدون پایان است و با مشارکت، رشد و یادگیری جامعه تکامل خواهد یافت.                             &#x20;
 
-Today we plant a seed. 
-Together we cultivate its growth towards a healthy and resilient commons. 
+برخی از حقوق حاکمیتی از طریق OP، یک توکن ERC20 اعطا می شوند. بنیاد اپتیمیزم در کنار جمع کار خواهد کرد تا چگونگی تکامل قوانین حکمرانی در طول زمان را شکل دهد.                                                                                        &#x20;
 
-## How is Optimism governed?
+امروز یک بذر می کاریم. ما با هم رشد آن را به سمت یک مشترک سالم و انعطاف پذیر پرورش می دهیم.                             &#x20;
 
-Optimism is governed by a collaboration between the **Optimism Foundation** and the members of the **Optimism Collective**. 
+### اپتیمیزم چگونه اداره می شود؟                                                                                   &#x20;
 
-The core governing structure of the Optimism Collective is established as two co-equal chambers: the **Token House** and the **Citizens’ House**. 
-These two houses are tasked with balancing short-term incentives with long-term vision in the pursuit of the [Optimistic Vision](https://optimism.io/vision).
+اپتیمیزم با همکاری بین بنیاد اپتیمیزم و اعضای گروه اپتیمیزم اداره می شود.                                                       &#x20;
+
+ساختار اصلی حاکم بر مجموعه اپتیمیزم به عنوان دو اتاق مساوی ایجاد شده است: خانه نشانه و خانه شهروندان. این دو خانه وظیفه دارند در راستای چشم انداز خوش بینانه، انگیزه های کوتاه مدت را با چشم انداز بلندمدت متعادل کنند.                                                                                                                                                           &#x20;
 
 ![Venn diagram](../../assets/docs/governance/readme/houses.jpeg)
 
-The upcoming Airdrop #1 establishes the **Token House** by distributing OP to thousands of addresses that have engaged in positive-sum, community-oriented behavior. 
-Token holders will be able to vote on the distribution of project incentives as a part of a Governance Fund, protocol upgrades, and more.
+ایردراپ شماره 1 پیش رو با توزیع OP به هزاران آدرسی که رفتارهای اجتماعی-محور با جمع مثبت را انجام داده اند، Token House را ایجاد می کند. دارندگان توکن می توانند در مورد توزیع مشوق های پروژه به عنوان بخشی از یک                                  صندوق حکومتی، ارتقاء پروتکل و موارد دیگر رأی دهند.                                                                                              &#x20;
 
-Next, the Collective will establish a **Citizens’ House** to facilitate and govern a process to distribute retroactive public goods funding. 
-Citizenship will be conferred by “[soulbound](https://vitalik.ca/general/2022/01/26/soulbound.html)” non-transferrable NFTs, and the set of citizens will grow over time. 
-The mechanism for distributing Citizenships will be determined by the Foundation with input from the Token House. 
+در مرحله بعد، مجموعه خانه شهروندان را برای تسهیل و مدیریت فرآیندی برای توزیع بودجه کالاهای عمومی عطف به ماسبق ایجاد خواهد کرد. شهروندی توسط NFTهای غیرقابل انتقال "قلاب روح" اعطا خواهد شد و مجموعه شهروندان در طول زمان رشد خواهند کرد. مکانیسم توزیع شهروندی توسط بنیاد و با ورودی از Token House تعیین خواهد شد.
 
-What is described here is an initial experiment. 
-The specifics of this system will evolve as the Collective grows.
+آنچه در اینجا توضیح داده می شود یک آزمایش اولیه است. ویژگی های این سیستم با رشد کلکتیو تکامل خواهد یافت.
 
-For more information on governance, see the [Working Constitution](https://gov.optimism.io/t/the-optimism-constitution/55/1).
+برای اطلاعات بیشتر در مورد حکمرانی، به قانون اساسی کاری مراجعه کنید.                                                                &#x20;
 
-## How is OP distributed?
+### &#x20;                                                                                   OP چگونه توزیع می شود؟&#x20;
 
-**19% of initial OP token supply is reserved for user airdrops**. 
-5% of initial supply will be distributed in Airdrop #1, and 14% will be distributed in future drops. 
-We’re just getting started!
+19 درصد از عرضه اولیه توکن OP برای airdrops کاربر محفوظ است. 5 درصد از عرضه اولیه در ایردراپ شماره 1 و 14 درصد در قطره های آینده توزیع خواهد شد. تازه داریم شروع می کنیم!                                                                      &#x20;
 
-**25% of initial OP token supply is allocated for Proactive Project Funding**. 
-This will be distributed via community governance, KPI-driven incentives, grants programs, and other mechanisms. 
+25 درصد از عرضه اولیه توکن OP برای تأمین مالی پروژه فعال اختصاص داده شده است. این از طریق حاکمیت                  جامعه، مشوق‌های مبتنی بر KPI، برنامه‌های کمک‌های مالی، و مکانیسم‌های دیگر توزیع می‌شود.                             &#x20;
 
-**20% of initial OP token supply plus inflation is allocated for Retroactive Public Goods Funding.** 
-The mechanics of this distribution will be an area of ongoing experimentation. 
+20 درصد از عرضه اولیه توکن OP به اضافه تورم برای تأمین مالی عطف به ماسبق کالاهای عمومی اختصاص می            یابد. مکانیک این توزیع منطقه ای برای آزمایش مداوم خواهد بود.                                                                                &#x20;
 
-**19% of initial OP token supply is allocated to core contributors.**
+19 درصد از عرضه اولیه توکن OP به مشارکت کنندگان اصلی اختصاص می یابد.                                                              &#x20;
 
-**17% of initial OP token supply is allocated to OP sugar xaddies** (aka investors).
+17 درصد از عرضه اولیه توکن OP به OP sugar xaddies (معروف به سرمایه گذاران) اختصاص داده می شود.                 &#x20;
 
-For a full breakdown of OP distribution, see the [Allocations Overview](allocations.md).
+برای تفکیک کامل توزیع OP، به نمای کلی تخصیص ها مراجعه کنید.                                                                      &#x20;
 
-## How does public goods funding fit in?
+### بودجه کالاهای عمومی چگونه با هم تناسب دارد؟                                                      &#x20;
 
-Today, the Optimism network generates millions in revenue from the small fees users pay to submit transactions. 
-In the future, this income will be supplemented by auctioning off blockspace to non-malicious sequencers.
+امروزه، شبکه Optimism میلیون ها درآمد از هزینه های اندکی که کاربران برای ارسال تراکنش می پردازند، ایجاد می کند. در آینده، این درآمد با حراج بلاک‌اسپیس به ترتیب‌دهنده‌های غیر مخرب تکمیل خواهد شد.                                         &#x20;
 
-Instead of all that value being captured by private actors, Optimism treats it as a source of funding for public goods that support the ecosystem.
+به جای اینکه همه این ارزش ها توسط بازیگران خصوصی تسخیر شود، خوش بینی آن را به عنوان منبعی برای تامین مالی کالاهای عمومی که از اکوسیستم حمایت می کنند، در نظر می گیرد.                                                              &#x20;
 
-This provides **ongoing** funding for public goods beyond the portion of initial token supply allocated as such. 
+این امر بودجه مستمری را برای کالاهای عمومی فراتر از بخشی از عرضه اولیه توکن تخصیص داده شده به این ترتیب فراهم می کند.                                                                                                                                                  &#x20;
 
-These funds will initially be distributed in keeping with Optimism’s previous rounds of [Retroactive Public Goods Funding](https://medium.com/ethereum-optimism/retroactive-public-goods-funding-33c9b7d00f0c).
-The Citizens’ House (described above) will be responsible for determining the allocation of these funds.
+این وجوه در ابتدا مطابق با دورهای قبلی Optimism از تأمین مالی عطف به ماسبق کالاهای عمومی توزیع می شود. خانه شهروندی (توضیح داده شده در بالا) مسئول تعیین تخصیص این بودجه خواهد بود.                                            &#x20;
 
-For details on the dynamics of OP and RetroPGF, see the [Economics Overview](economics.md).
+برای جزئیات بیشتر در مورد پویایی OP و RetroPGF، به بررسی اجمالی اقتصاد مراجعه کنید.                                        &#x20;
 
-## How do I get involved?
+### چگونه درگیر شوم؟                                                                                                        &#x20;
 
-To check your eligibility for Airdrop #1, visit [the announcement page](https://app.optimism.io/governance). 
-It is not possible to claim your tokens yet – follow [@optimismPBC](https://twitter.com/optimismPBC) for official updates on the upcoming airdrop date.
+برای بررسی واجد شرایط بودن خود برای Airdrop #1، از صفحه اعلامیه بازدید کنید. هنوز امکان ادعای توکن‌های خود وجود ندارد - @optimismPBC را برای به‌روزرسانی‌های رسمی در تاریخ airdrop آینده دنبال کنید.                           &#x20;
 
-Remember, this is the first drop of many. 
-To improve your odds for future drops, get involved:
+به یاد داشته باشید، این اولین قطره از بسیاری است. برای بهبود شانس خود برای سقوط در آینده، شرکت کنید:                 &#x20;
 
-- If you want to build on Optimism, visit our [developer documentation](https://community.optimism.io/) or jump in to [Discord](https://discord.optimism.io).
-- If your talents are non-technical, jump in to [Discord](https://discord.optimism.io) to find other builders, apply to be a Support NERD, or just make some memes 🍉.
-- [Discuss governance proposals and help create the best possible Optimism Collective](https://gov.optimism.io/).
-- [Bridge your assets to Optimism](https://app.optimism.io/bridge) and [explore projects on OP](https://www.optimism.io/apps/all).
+اگر می‌خواهید روی خوش‌بینی ایجاد کنید، از اسناد توسعه‌دهنده ما دیدن کنید یا وارد Discord شوید.                            &#x20;
 
-As always: stay safe and stay Optimistic.
+اگر استعدادهای شما غیر فنی است، برای یافتن سازندگان دیگر به Discord بروید، برای پشتیبانی NERD درخواست دهید یا فقط چند الگوی رفتاری بسازید 🍉.                                                                                                          &#x20;
+
+[Discuss governance proposals and help create the best possible Optimism Collective](https://gov.optimism.io/).
+
+* [Bridge your assets to Optimism](https://app.optimism.io/bridge) and [explore projects on OP](https://www.optimism.io/apps/all).
+
+مثل همیشه: ایمن بمانید و خوش بین باشید.                                                                                                                   &#x20;
