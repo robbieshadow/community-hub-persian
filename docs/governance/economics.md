@@ -17,7 +17,7 @@ lang: en-US
 
 با هم، به نظر می رسد این است:
 
-![](../../assets/docs/governance/economics/virt\_cycle.png)
+![](../../src/assets/docs/governance/economics/virt\_cycle.png)
 
 بیایید آن را تجزیه کنیم ⤵️
 
