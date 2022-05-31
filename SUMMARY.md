@@ -6,7 +6,7 @@
       * [اقتصاد OP](src/docs/governance/economics.md)
       * [تخصیص OP](src/docs/governance/allocations.md)
       * [OPerating Manual of the Optimism Collective (v0.1)](src/docs/governance/gov-01.md)
-      * [ایرد](src/docs/governance/airdrop-1.md)
+      * [ایردراپ شماره 1](src/docs/governance/airdrop-1.md)
       * [Governance Fund Overview](src/docs/governance/gov-fund.md)
     * [How Optimism Works](src/docs/how-optimism-works/README.md)
     * [Optimism Guides](src/docs/guides/README.md)

@@ -45,25 +45,22 @@ lang: en-US
 
 تخصیص: 25%
 
-صندوق اکوسیستم یک برنامه تشویقی است که برای تحریک توسعه اکوسیستم جمعی طراحی شده است. صندوق اکوسیستم برای تأمین مالی مستقیم جوامع و شرکت‌هایی که توسعه اکوسیستم جمعی (OPCO) را هدایت می‌کنند، استفاده خواهد شد.
+The Ecosystem Fund is an incentive program designed to stimulate development of the Collective ecosystem. The Ecosystem Fund will be used to directly fund the communities and companies that drive the expansion of the Collective ecosystem (OPCOs).
 
-تخصیص اختصاص یافته به صندوق اکوسیستم بیشتر به دسته های زیر تقسیم می شود:
+The allocation dedicated to the Ecosystem Fund is to be further split into the following categories:
 
-صندوق دولت (5.4%)
+1. Governance Fund **(5.4%)**
+2. Partner Fund **(5.4%)**
+3. Seed Fund **(5.4%)**
+4. Unallocated **(8.8%)**
 
-صندوق شریک (5.4%)
-
-صندوق بذر (5.4%)
-
-تخصیص نیافته (8.8%)
-
-صندوق اکوسیستم به عنوان یک مکانیسم آغازین در نظر گرفته شده است که پس از اتمام OP در صندوق، به طور کامل حذف خواهد شد. ما انتظار داریم عملکردی که توسط صندوق اکوسیستم (تامین مالی فعال) انجام می‌شود، در نهایت با سرمایه‌گذاران شخص ثالث خصوصی جایگزین شود که می‌توانند انتظار داشته باشند که توسط مکانیسم ماسبق مالی کالاهای عمومی پرداخت شوند.
+The Ecosystem Fund is intended to be a kick-starting mechanism that will be phased out entirely once the OP in the fund has been depleted. We expect the function served by the Ecosystem Fund (proactive funding) to eventually be replaced by private third-party investors who can expect to be paid out by the [Retroactive Public Goods Funding](https://medium.com/ethereum-optimism/retroactive-public-goods-funding-33c9b7d00f0c) mechanism.
 
 ![](../../assets/docs/governance/allocations/ecosystem\_fund\_process.jpeg)
 
-تنوع گسترده مکانیسم‌های تامین مالی تضمین می‌کند که airdrops دائماً به سمت کاربرانی می‌رود که کمک‌های ارزشمندی به اکوسیستم می‌کنند. این مشارکت‌ها منجر به رشد اکوسیستم می‌شود، رشد اکوسیستم منجر به تقاضا برای فضای بلوک می‌شود، تقاضا برای فضای بلوک منجر به درآمد می‌شود، و این درآمدها سپس به‌عنوان قطره‌های هوایی اضافی دوباره در اکوسیستم مستقر می‌شوند.
+The wide variety of funding mechanisms ensures that airdrops constantly flow to users who make valuable contributions to the ecosystem. These contributions result in ecosystem growth, ecosystem growth results in demand for block space, demand for block space results in revenues, and these revenues are then productively re-deployed into the ecosystem as additional airdrops.
 
-هر صندوق را می توان به عنوان یک آزمایش موازی در تخصیص OP در نظر گرفت، که امکان تکرار سریع و دو برابر کردن آنچه برای رشد بیشتر اکوسیستم کار می کند را ممکن می سازد.
+Each fund can be thought of as a parallel experiment in OP allocation, enabling rapid iteration and doubling down on what works to further grow the ecosystem.
 
 #### Governance Fund
 
